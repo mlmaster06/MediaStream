@@ -31,8 +31,8 @@ https://user-images.githubusercontent.com/72180010/161577746-5d8e7c6e-c107-430d-
 * Livedata - Notifies Observer objects in the UI when underlying data changes.
 
 ## Author Info
-* Twitter - [@BreensR](https://twitter.com/BreensR)
-* Linkedin - [LinkedIn: Breens Robert](https://www.linkedin.com/in/breens-mbaka/)
+
+* Linkedin - [LinkedIn: Akshay Verma](http://www.linkedin.com/in/akshay-verma-972904225)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
