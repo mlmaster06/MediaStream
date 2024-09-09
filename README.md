@@ -1,4 +1,4 @@
-## Youtube Android Clone 🚀
+## About MediaStream 🚀
 This app consumes The Youtube Api to fetch and display a list of popular videos, The app uses MVVM design pattern to allow separation of the app components like fragments & activities from the data logic, some of the benefits are:
 * Make the data survive device configuration changes
 * Allow easier testing of different components in the app
